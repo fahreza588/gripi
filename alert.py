@@ -77,4 +77,4 @@ while True:
             pass
 
     # Jeda selama 5 menit sebelum iterasi berikutnya
-    time.sleep(300)  # 300 detik = 5 menit
+    time.sleep(10)  # 300 detik = 5 menit
